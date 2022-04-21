@@ -13,5 +13,5 @@ With an implemented Machine Learning model that predicts whether an email messag
 
 ## How to test
 - Verify email address in AWS SES and record it as a verified identity
-- Send an email message to email@emaildetect.com
+- Use the above verified email address to send an email message to email@emaildetect.com
 - Wait for the response
